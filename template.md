@@ -170,6 +170,12 @@ Examples of potential tasks are:
 
 ---
 
+## **Nice to have**
+
+- A printer. Preferably a quiet one or placed at a corner.
+
+---
+
 ## **FAQ**
 
 ### **Is there lunch during the sprint?**
