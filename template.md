@@ -19,6 +19,7 @@
 * You can contribute through code, documentation, tutorials, or by starting a new open-source project.  
 * A GitHub account is required.  
 * Knowing how to create a Pull Request is required. But if you don't know how, there will be a separate and short workshop at the start of the day. This way, you can join the sprint afterwards
+* We are aiming to have a *“chill”* atmosphere. We want the Sprint to be a contrast with the non-stop talks and workshops during the main event.
 
 ### **Which Open Source Software (OSS) are allowed?**
 
@@ -29,6 +30,7 @@
 
 * **Give back to the community.**  
 * **Learn and grow:** Beginners can level up and gain experience contributing to OSS.
+* **Exposure to OSS:** There are people who are intimidated in contributing to OSS. A Sprint can help overcome that.
 
 ### **What contributions are expected?**
 
@@ -115,8 +117,8 @@ If you are planning to create your own group, approach {Sprint organizer} so the
 
 ### **As a Sprint Leader, what should I prepare before the day of the Sprint Session?**
 
-* Figure out how to communicate with the core OSS team (e.g., Discord, IRC, forums).  
-* Review their version control's `#first-issues` tags or ask the core team for tasks suitable for a day of work.  
+* Figure out how to communicate with the OSS core/maintaner team (e.g., Discord, IRC, forums).  
+* Review their version control's `#first-issues` tags or ask the core/maintainer team for tasks suitable for a day of work.  
 * Identify areas for improvement in their tutorials or documentation.  
 * Check if they accept translations.  
 * Review the OSS's Code of Conduct and share it with your group.  
