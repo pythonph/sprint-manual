@@ -129,7 +129,7 @@ If you are planning to create your own group, approach {Sprint organizer} so the
 
 We will have a pull request workshop for beginners. We suggest preparing some easy tasks as they might be joining you after their workshop.
 
-Examples of potential tasks are:
+Examples of beginner tasks are:
 
 * Add examples to docstrings or the documentations
 * Enhance or write more descriptive warning and error messages
@@ -166,9 +166,9 @@ Examples of potential tasks are:
 ### **What happens at the end of the Sprint Session?**
 
 * Each group will present their contributions. Think of this like a lightning talk.
-* Group members may choose to talk individually about their own contributions.
+* Group members may choose to talk individually about their own contributions or as a group.
 * Maximum of 2 minutes per participant. *Note: this time can be changed by to the event organizers*
-* Put up screenshots or key moments on the Discord channel. This can be shown during your presentations.
+* Put up screenshots or key moments on the Discord channel. This can be shown during your presentations instead of preparing slides.
 
 ---
 
